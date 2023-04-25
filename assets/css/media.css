@@ -1,0 +1,60 @@
+@media only screen and (max-width: 768px) {
+  .loader-line {
+    max-width: 300px;
+  }
+  .navbar-container {
+    display: flex;
+    flex-direction: column;
+    margin: 0rem 12rem;
+  }
+  .navbar-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 17.5rem;
+    margin-top: 2.56rem;
+  }
+  .navbar-info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .navbar-info li a {
+    font-size: 0.9rem;
+  }
+  .main-info {
+    margin-top: 180px;
+    max-width: 300px;
+  }
+  .avatar-main {
+    display: none;
+  }
+  .main-about {
+    margin-top: 0px;
+    max-width: 300px;
+  }
+  .main-about-text {
+    max-width: 300px;
+  }
+  .main-about-skills {
+    display: inline;
+  }
+  .projetos-main {
+    max-width: 300px;
+  }
+  .projetos ul {
+    columns: 1;
+  }
+  .projetos {
+    max-width: 300px;
+  }
+  .projetos ul li {
+    max-width: 300px;
+  }
+  .projetos ul li img {
+    max-width: 300px;
+  }
+  .contato-info {
+    max-width: 300px;
+  }
+}
