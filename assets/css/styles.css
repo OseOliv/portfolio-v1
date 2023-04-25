@@ -336,66 +336,66 @@ padding: 0.625rem;
 }
 
 .main-about-skills .html::before {
-  content: "";
+  content: "➤";
   display: inline-block;
   width: 2rem;
   height: 2rem;
-  background-image: url(/assets/img/html.png);
+  /* background-image: url(/assets/img/html.png); */
   background-repeat: no-repeat;
   background-size: contain;
   margin-right: 0.125rem;
 }
 
 .main-about-skills .css::before {
-  content: "";
+  content: "➤";
   display: inline-block;
   width: 2rem;
   height: 2rem;
-  background-image: url(/assets/img/css.png);
+  /* background-image: url(/assets/img/css.png); */
   background-repeat: no-repeat;
   background-size: contain;
   margin-right: 0.125rem;
 }
 
 .main-about-skills .js::before {
-  content: "";
+  content: "➤";
   display: inline-block;
   width: 2rem;
   height: 2rem;
-  background-image: url(/assets/img/js.png);
+  /* background-image: url(/assets/img/js.png); */
   background-repeat: no-repeat;
   background-size: contain;
-  margin-right: 0.5rem;
+  margin-right: 0.125rem;
 }
 
 .main-about-skills .ts::before {
-  content: "";
+  content: "➤";
   display: inline-block;
   width: 2rem;
   height: 2rem;
-  background-image: url(/assets/img/typescript.png);
+  /* background-image: url(/assets/img/typescript.png); */
   background-repeat: no-repeat;
   background-size: contain;
-  margin-right: 0.5rem;
+  margin-right: 0.125rem;
 }
 
 .main-about-skills .react::before {
-  content: "";
+  content: "➤";
   display: inline-block;
   width: 2rem;
   height: 2rem;
-  background-image: url(/assets/img/react.png);
+  /* background-image: url(/assets/img/react.png); */
   background-repeat: no-repeat;
   background-size: contain;
   margin-right: 0.125rem;
 }
 
 .main-about-skills .bs::before {
-  content: "";
+  content: "➤";
   display: inline-block;
   width: 2rem;
   height: 2rem;
-  background-image: url(/assets/img/bootstrap.png);
+  /* background-image: url(/assets/img/bootstrap.png); */
   background-repeat: no-repeat;
   background-size: contain;
   margin-right: 0.125rem;
