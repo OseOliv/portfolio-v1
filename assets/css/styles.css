@@ -332,7 +332,7 @@ padding: 0.625rem;
   display: flex;
   flex-direction: row;
   color: rgb(178, 224, 224);
-  margin-left: 1.25rem;
+  margin-left: 0rem;
 }
 
 .main-about-skills li {
