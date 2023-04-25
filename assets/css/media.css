@@ -2,6 +2,7 @@
   .loader-line {
     max-width: 300px;
   }
+
   .navbar-container {
     display: flex;
     flex-direction: column;
@@ -24,8 +25,9 @@
   }
 
   .main-info {
-    margin-top: 180px;
+    margin-top: 0px;
     max-width: 365px;
+    
   }
   .avatar-main {
     display: none;
