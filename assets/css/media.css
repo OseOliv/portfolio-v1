@@ -22,39 +22,58 @@
   .navbar-info li a {
     font-size: 0.9rem;
   }
+
   .main-info {
     margin-top: 180px;
-    max-width: 300px;
+    max-width: 365px;
   }
   .avatar-main {
     display: none;
   }
   .main-about {
     margin-top: 0px;
-    max-width: 300px;
+    max-width: 365px;
+  }
+  .main-about-bar{
+    padding: 0px 0 10px 0;
+  }
+  .main-info h1{
+    padding: 0px 0 10px 0;
+  }
+  .main-info h3 {
+    font-size: 2rem;
+  }
+  .main-info h2{
+    font-size: 3rem;
   }
   .main-about-text {
-    max-width: 300px;
+    max-width: 365px;
   }
   .main-about-skills {
     display: inline;
   }
   .projetos-main {
-    max-width: 300px;
+    max-width: 365px;
+    margin: 6.25rem 0rem 0rem -1rem;
+  }
+
+  .projetos-main h1 {
+    padding: 0px 0 10px 0;
+
   }
   .projetos ul {
     columns: 1;
   }
   .projetos {
-    max-width: 300px;
+    max-width: 365px;
   }
   .projetos ul li {
-    max-width: 300px;
+    max-width: 365px;
   }
   .projetos ul li img {
-    max-width: 300px;
+    max-width: 365px;
   }
   .contato-info {
-    max-width: 300px;
+    max-width: 365px;
   }
 }
